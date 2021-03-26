@@ -1,4 +1,4 @@
-module github.com/butonic/zerologr
+module github.com/Zimpler/zerologr
 
 go 1.13
 
